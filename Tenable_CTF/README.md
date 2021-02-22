@@ -2,7 +2,7 @@
 
 
 Random encryption example file:
-
+'''
 import random
 flag = "flag{n0t_that_r4ndom}"
 seeds = []
@@ -22,3 +22,4 @@ for i in range(0, len(flag)):
 
 print(res)
 print(seeds)
+'''
