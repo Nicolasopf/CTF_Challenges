@@ -3,7 +3,7 @@
 
 Random encryption file to understand the problem:
 
-```
+```c
 import random
 flag = "flag{n0t_that_r4ndom}"
 seeds = []
