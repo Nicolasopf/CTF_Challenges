@@ -26,7 +26,7 @@ print(seeds)
 ```
 
 Example execution:
-```
+```c
 [22, 67, 142]
 [57, 51, 53]
 [97, 114, 14]
