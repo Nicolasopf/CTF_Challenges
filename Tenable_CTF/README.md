@@ -1,8 +1,9 @@
 # Tenable CTF - February 21 - Just one day of the CTF doing challenges
 
 
-Random encryption example file:
-'''
+Random encryption file to understand the problem:
+
+```
 import random
 flag = "flag{n0t_that_r4ndom}"
 seeds = []
@@ -22,4 +23,4 @@ for i in range(0, len(flag)):
 
 print(res)
 print(seeds)
-'''
+```
